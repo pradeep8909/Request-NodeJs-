@@ -1,0 +1,11 @@
+{
+  "name": "request",
+  "version": "1.0.0",
+  "description": "request through node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pradeep",
+  "license": "ISC"
+}
